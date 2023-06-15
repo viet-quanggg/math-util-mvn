@@ -1,3 +1,3 @@
-#welcome to Math Utility
-*Coming soon
-#### Copyright $#2504, quang.nv
+# Welcome to Math Utility Repo
+* Coming soon
+#### Copyright $#169; 2023 quangnv
