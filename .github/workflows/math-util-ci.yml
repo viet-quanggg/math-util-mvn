@@ -1,7 +1,5 @@
 name: MathUtility using Maven CI (GitHub Actions) | © 2023 quang.nv
 
-name: Java CI with Maven
-
 on:
   push:
     branches: [ "main" ]
